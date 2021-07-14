@@ -1,0 +1,16 @@
+PODS:
+  - SXHAuthorKit (1.0.0)
+
+DEPENDENCIES:
+  - SXHAuthorKit (from `../`)
+
+EXTERNAL SOURCES:
+  SXHAuthorKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SXHAuthorKit: df12b18303f8c3fd945548923e5ae3c406dfcdba
+
+PODFILE CHECKSUM: 0504f7ae91c374ee623629d32536af003413c92b
+
+COCOAPODS: 1.10.1

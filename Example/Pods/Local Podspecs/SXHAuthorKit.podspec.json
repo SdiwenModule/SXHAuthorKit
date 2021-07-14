@@ -1,0 +1,22 @@
+{
+  "name": "SXHAuthorKit",
+  "version": "1.0.0",
+  "summary": "A short description of SXHAuthorKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SdiwenModule/SXHAuthorKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sdiwen007": "384005578@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/SdiwenModule/SXHAuthorKit.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SXHAuthorKit/Classes/**/*"
+}
