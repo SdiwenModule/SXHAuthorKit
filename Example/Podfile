@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SXHAuthorKit_Example' do
+  pod 'SXHAuthorKit', :path => '../'
+
+  target 'SXHAuthorKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
